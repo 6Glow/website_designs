@@ -124,3 +124,14 @@ body{
 .layer-4, .layer-5, .layer-6 {
 	pointer-events: none;
 }
+
+/* General Styles: Reset margins, padding, and set box-sizing for all elements.*/
+/* Root Variables: Define a size index and transition timing for animations. */
+/* Font Import: Load custom fonts for use in the document.*/
+/* Body Styles: Set background color, text color, and font family for the document body.*/
+/* Logo Styles: Define the size and position of the logo element. */
+/* Layers Container: Establish perspective for 3D effect and hide overflow content.*/
+/* 3D Transformations for Layers: Apply transform-style: preserve-3d to maintain 3D context and use custom CSS variables for rotation based on mouse movement. */
+/* Layer Items: Define position, size, and transformation for each layer, creating a depth effect. */
+/* Main Content Styles: Style text and buttons on the front layer. */
+/* Pointer Events: Disable interaction for specific layers to prevent unwanted pointer events. */
