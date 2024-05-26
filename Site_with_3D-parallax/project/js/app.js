@@ -8,3 +8,7 @@ document.addEventListener('mousemove', e => {
 		`
 	})
 })
+
+
+    // Event Listener mousemove: Tracks mouse movement on the screen.
+    // Updating Root Element Style: Uses mouse coordinates to compute rotation values for --move-x and --move-y CSS variables, updating them dynamically.
