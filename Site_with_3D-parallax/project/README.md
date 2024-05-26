@@ -4,18 +4,7 @@
 
 This project demonstrates various web design techniques, including vertical parallax, horizontal parallax, 3D parallax, and more. Each design technique is implemented to showcase its unique visual effects and how it can be used to enhance the user experience.
 
-## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Design Techniques](#design-techniques)
-  - [Vertical Parallax](#vertical-parallax)
-  - [Horizontal Parallax](#horizontal-parallax)
-  - [3D Parallax](#3d-parallax)
-  - [Hover Effects](#hover-effects)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
