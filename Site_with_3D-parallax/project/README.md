@@ -25,5 +25,6 @@ This project demonstrates a 3D parallax web design. The design creates a stunnin
 To get started with this project, clone the repository and open the project directory:
 
 ```bash
-git clone https://github.com/yourusername/3d-parallax-web-design.git
-cd 3d-parallax-web-design
+git clone https://github.com/6Glow/website_designs.git
+cd website_designs
+and then cd Site_with_3D-parallax
