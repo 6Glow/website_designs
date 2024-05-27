@@ -27,4 +27,5 @@ To get started with this project, clone the repository and open the project dire
 ```bash
 git clone https://github.com/6Glow/website_designs.git
 cd website_designs
+```
 and then cd Site_with_3D-parallax
